@@ -202,7 +202,7 @@ main section.next__generation__container {
   main section.next__generation__container {
     background: hsl(0deg, 0%, 98%) url(../images/bg-intro-mobile.svg) no-repeat;
     block-size: 618px;
-    background-position: 0 -20%;
+    background-position: right -20%;
   }
 }
 main section.next__generation__container .mockup__phone-desktop {
