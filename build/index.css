@@ -240,7 +240,7 @@ main section.next__generation__container .next__generation {
   main section.next__generation__container .next__generation {
     justify-content: flex-end;
     row-gap: 15px;
-    padding-block-end: 5.1875rem;
+    padding-block-end: 3rem;
   }
 }
 main section.next__generation__container .next__generation h1 {
